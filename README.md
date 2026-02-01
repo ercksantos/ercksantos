@@ -64,18 +64,6 @@ Atualmente Dominando:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-  ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercksantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7dd3fc&icon_color=38bdf8&text_color=c9d1d9)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ercksantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7dd3fc&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 🎯 Foco Atual
 
 - 📚 Padrões avançados de Java & Spring Framework
