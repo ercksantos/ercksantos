@@ -1,95 +1,116 @@
-<!-- ⚡ README Estilo Cyber Dev ⚡ -->
+<div align="center">
 
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #7dd3fc; text-shadow: 0 0 10px #7dd3fc, 0 0 20px #38bdf8;">
-Oioi, eu sou o Erick 👋🏻
-</h1>
+# Olá, eu sou o Erick Santos 👋
 
-<p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" height="180" />
-</p>
+### Desenvolvedor Backend | Estudante de Análise e Desenvolvimento de Sistemas
 
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #7dd3fc; text-shadow: 0 0 10px #38bdf8;">
-🧠 Sobre mim
-</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickps-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ercksantos)
 
-<p align="center" style="color: #e5e7eb; font-size: 1.1rem; width: 80%; margin: auto;">
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e desenvolvedor em evolução, com foco em
-<strong>back-end, automações e sistemas bem estruturados</strong>.<br><br>Atualmente estou estudando <strong>Java</strong> e aprofundando meus conhecimentos no ecossistema <strong>Spring</strong>, buscando base sólida para atuar profissionalmente.<br><br>Gosto de pensar em <strong>sistemas, processos e eficiência</strong>. Código limpo, integração bem feita e automação não são detalhe — são padrão.
-</p>
+</div>
 
-<br>
+---
 
-<h2 align="center">⚙️ Tecnologias</h2>
+## 🚀 Sobre Mim
 
-<h3 align="center">💻 Back-End</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por construir soluções backend robustas e escaláveis. Meu foco está em criar sistemas bem estruturados com código limpo, integrações eficientes e automação inteligente.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+Atualmente aprofundando minha expertise em **Java** e no **ecossistema Spring**, estou comprometido em entregar soluções de nível profissional que resolvem problemas do mundo real.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+Mais do que só stack, sou programador de processos, de produtos. Eu penso, estudo, planejo e executo pensando no resultado final, não somente no código. Afinal, programar é resolver problemas.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-</p>
+> *"Código limpo, integração adequada e automação não são detalhes — são padrões."*
 
-<h3 align="center">🎨 Front-End</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+## 💼 Competências Principais
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+```yaml
+Áreas de Foco:
+  - Desenvolvimento Backend & Design de APIs
+  - Arquitetura de Sistemas & Otimização de Processos
+  - Soluções de Automação & Integração
+  - Código Limpo & Boas Práticas
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-</p>
+Atualmente Dominando:
+  - Java Avançado & Spring Boot
+  - Desenvolvimento de APIs RESTful
+  - Arquitetura de Microserviços
+  - DevOps & Containerização
+```
 
-<h3 align="center">🛠️ Ferramentas & Infra</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+## 🛠️ Stack Tecnológico
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+### Desenvolvimento Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" height="40"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-</p>
+### Frontend & Web
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Ferramentas & Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-<br>
+---
 
-<h2 align="center" style="color: #7dd3fc; text-shadow: 0 0 10px #38bdf8;">
-🎯 Em evolução constante
-</h2>
+## 📊 Estatísticas do GitHub
 
-<p align="center" style="color: #e5e7eb; font-size: 1.1rem; width: 80%; margin: auto;">
-Estudando <strong>Java avançado</strong>, <strong>Spring Boot</strong>, arquitetura back-end e automações com foco em
-resolver problemas reais e criar soluções escaláveis. 🚀
-</p>
+<div align="center">
+  
+  ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercksantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7dd3fc&icon_color=38bdf8&text_color=c9d1d9)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ercksantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7dd3fc&text_color=c9d1d9)
 
-<br>
+</div>
 
-<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #7dd3fc; text-shadow: 0 0 10px #38bdf8;">
-🌐 Vamos nos conectar?
-</h3>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/erickps-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
-  </a>
-</p>
+## 🎯 Foco Atual
 
-<p align="center">
-  <strong>Build. Learn. Improve.</strong>
-</p>
+- 📚 Padrões avançados de Java & Spring Framework
+- 🏗️ Construção de arquiteturas de microserviços escaláveis
+- 🔄 Implementação de pipelines CI/CD e práticas DevOps
+- 🤖 Criação de fluxos de automação inteligentes
+- 📖 Contribuição em projetos open-source
+
+---
+
+## 💡 O Que Me Move
+
+Acredito em **pensamento sistêmico** e **melhoria contínua**. Cada linha de código é uma oportunidade de criar algo mais eficiente, mais sustentável e mais valioso. Sou apaixonado por:
+
+- Escrever código que outros possam entender e manter facilmente
+- Projetar sistemas que escalam graciosamente
+- Automatizar tarefas repetitivas para focar no que importa
+- Aprender com a comunidade e compartilhar conhecimento
+
+---
+
+## 🌐 Vamos Nos Conectar
+
+Estou sempre aberto a conversas interessantes sobre tecnologia, design de sistemas ou oportunidades de colaboração.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickps-dev)
+
+**Construir. Aprender. Melhorar. Repetir.**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ercksantos&color=7dd3fc&style=for-the-badge&label=Visualizações+do+Perfil" alt="Profile views" />
+</div>
