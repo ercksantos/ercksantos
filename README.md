@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Erick Santos 👋
+# Olá, eu sou o Erick Santos 👋🏻
 
-### Desenvolvedor Backend | Estudante de Análise e Desenvolvimento de Sistemas
+### Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickps-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ercksantos)
@@ -19,7 +19,7 @@ Atualmente aprofundando minha expertise em **Java** e no **ecossistema Spring**,
 
 Mais do que só stack, sou programador de processos, de produtos. Eu penso, estudo, planejo e executo pensando no resultado final, não somente no código. Afinal, programar é resolver problemas.
 
-> *"Código limpo, integração adequada e automação não são detalhes — são padrões."*
+> *"Código limpo, integração adequada e automação não são detalhes, são padrões."*
 
 ---
 
